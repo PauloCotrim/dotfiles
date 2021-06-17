@@ -1,0 +1,14 @@
+{
+  "configurations": {
+    "launch - netcoredbg": {
+      "adapter": "netcoredbg",
+      "configuration": {
+        "request": "launch",
+        "program": "${workspaceRoot}/bin/Debug/netcoreapp5.0/ELContabilidade.dll",
+        "args": [],
+        "stopAtEntry": true,
+        "cwd": "${workspaceRoot}"
+      }
+    }
+  }
+}
